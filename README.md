@@ -14,6 +14,7 @@ I'm a high school senior and aspiring CS/Math major @ Maryland. Besides tech, mu
 
 ![elizabethqiu's Github Stats](https://github-readme-stats.vercel.app/api?username=elizabethqiu&show_icons=true&theme=noctis_minimus" alt="github stats")](https://github.com/anuraghazra/github-readme-stats)
 
+
 ![elizabethqiu's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=elizabethqiu&hide=bash,class,docker,git%20config,gitignore%20file,json,jsx,jupyter%20notebook,markdown,text,typescript,vue.js,xml&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
 ![elizabethqiu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethqiu&hide=jupyter%20notebook&layout=compact&theme=noctis_minimus)
