@@ -5,6 +5,15 @@ I'm a high school senior and aspiring CS/Math major @ Maryland. Besides tech, mu
 - [in: elizqiu](https://linkedin.com/in/elizqiu)  
 - [tt: elizqiu](http://twitter.com/elizqiu)
 
+### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=elizabethqiu&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elizabethqiu&theme=dark" width="48%" >
+
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethqiu&layout=compact)
+
 <!--
 **elizabethqiu/elizabethqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
