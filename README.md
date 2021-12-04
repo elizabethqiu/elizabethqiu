@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello! 👋
+
+I'm a high school senior and aspiring CS/Math major @ Maryland. Besides tech, music, and building communities, I also love UI/UX design, algorithms, memes, and stickers (preferably all at once). I'm currently working on some ✨things✨ and would love to meet you! 
+
+- [in: elizqiu](https://linkedin.com/in/elizqiu)  
+- [tt: elizqiu](http://twitter.com/elizqiu)
 
 <!--
 **elizabethqiu/elizabethqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
