@@ -2,6 +2,7 @@
 
 I'm a high school senior and aspiring CS/Math major @ Maryland. Besides tech, music, and building communities, I also love UI/UX design, algorithms, memes, and stickers (preferably all at once). I'm currently working on some ✨things✨ and would love to meet you! 
 
+**Connect with me**
 - [in: elizqiu](https://linkedin.com/in/elizqiu)  
 - [tt: elizqiu](https://twitter.com/elizqiu)
 
@@ -13,7 +14,7 @@ I'm a high school senior and aspiring CS/Math major @ Maryland. Besides tech, mu
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizabethqiu&theme=cobalt" width="48%" >  
 
-[![elizabethqiu's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elizabethqiu)](https://github.com/anuraghazra/github-readme-stats)
+[![elizabethqiu's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elizabethqiu&hide=jupyter%20notebook,jsx,json,git%20config,bash,class,gitignore%20file,xml)](https://github.com/anuraghazra/github-readme-stats)
 
  ![elizabethqiu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethqiu&hide=jupyter%20notebook&layout=compact)  
 
