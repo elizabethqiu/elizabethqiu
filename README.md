@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm a high school senior and incoming CS/Math major @ Maryland. Besides tech, music, and building communities, I also love AI, algorithms, and memes (preferably all at once). I'm currently working on some ✨things✨ and would love to meet you! 
+I'm a high school senior and incoming CS/Math major @ Maryland. Besides tech, music, and building communities, I also love AI, quantum, algorithms, and memes (preferably all at once). I'm currently working on some ✨things✨ and would love to meet you! 
 
 ### Connect with me
 - [**in**: elizqiu](https://linkedin.com/in/elizqiu)  
