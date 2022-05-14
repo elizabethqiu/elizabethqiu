@@ -1,8 +1,8 @@
 # Hello! 👋
 
-I'm a high school senior and incoming CS/Math major @ Maryland. Besides tech, music, and building communities, I also love AI, quantum, algorithms, and memes (preferably all at once). I'm currently working on some ✨things✨ and would love to meet you! 
+I'm an incoming undergraduate CS student fascinated with computer vision, cyberlaw, and quantitative analysis. 
 
-### Connect with me
+### Socials
 - [**in**: elizqiu](https://linkedin.com/in/elizqiu)  
 - [**tt**: elizqiu](https://twitter.com/elizqiu)
 
@@ -18,6 +18,6 @@ I'm a high school senior and incoming CS/Math major @ Maryland. Besides tech, mu
 <img src= "https://github-readme-stats.vercel.app/api?username=elizabethqiu&show_icons=true&hide_border=true&theme=noctis_minimus" alt="github stats" >
 
 <!-- elizabethqiu's Wakatime Stats -->
-![elizabethqiu's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=elizabethqiu&hide=bash,class,docker,git%20config,gitignore%20file,IDEA_MODULE,json,jsx,jupyter%20notebook,markdown,text,typescript,vue.js,xml&hide_border=true&layout=compact&theme=noctis_minimus)
+![elizabethqiu's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=elizabethqiu&hide=bash,class,docker,git%20config,gitignore%20file,IDEA_MODULE,json,jsx,markdown,text,scss,typescript,vue.js,xml&hide_border=true&layout=compact&theme=noctis_minimus)
 
 ![elizabethqiu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethqiu&hide=jupyter%20notebook&hide_border=true&layout=compact&theme=noctis_minimus)
